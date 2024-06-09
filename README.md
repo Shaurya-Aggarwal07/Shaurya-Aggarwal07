@@ -1,4 +1,27 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="200"/>
+</div>
+<br>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/shaurya-aggarwal-iitp/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/shaurya_0.7_">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shaurya-Aggarwal07&style=flat-square&color=blue" alt=""/>
+</div>
+<h1 align="center">
+  Hey, there !
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+
+
+
 
 <!--
 **Shaurya-Aggarwal07/Shaurya-Aggarwal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
