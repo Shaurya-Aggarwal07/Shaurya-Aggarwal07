@@ -17,23 +17,34 @@
   Hey, there !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="600" height="400"/>
+</div>
 
+---
 
+### 👨‍💻 About Me :
+"Enthusiastic about diving into the realms of technology and eager to learn." <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
+-Dedicated to continuous self-improvement and skill development.<br>
+-Collaborative team player with excellent communication skills<br>
+-Motivated by the opportunity to contribute to innovative projects.<br>
+-Eager to leverage my skills to make meaningful contributions to the tech community.<br>
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
+</div>
 
-<!--
-**Shaurya-Aggarwal07/Shaurya-Aggarwal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shaurya-Aggarwal07&theme=dark)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-Aggarwal07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
